@@ -1,0 +1,8 @@
+D:\14-28066-3\calculation\Calculator.test\obj\Debug\Calculator.test.csprojResolveAssemblyReference.cache
+D:\14-28066-3\calculation\Calculator.test\bin\Debug\Calculator.test.exe.config
+D:\14-28066-3\calculation\Calculator.test\bin\Debug\Calculator.test.exe
+D:\14-28066-3\calculation\Calculator.test\bin\Debug\Calculator.test.pdb
+D:\14-28066-3\calculation\Calculator.test\bin\Debug\Calculator.lib.dll
+D:\14-28066-3\calculation\Calculator.test\bin\Debug\Calculator.lib.pdb
+D:\14-28066-3\calculation\Calculator.test\obj\Debug\Calculator.test.exe
+D:\14-28066-3\calculation\Calculator.test\obj\Debug\Calculator.test.pdb
